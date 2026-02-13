@@ -11,6 +11,7 @@
       ./apps.nix
       ./intelgpu.nix
       ./wallpaper.nix
+      ./gnome-lite.nix
     ];
 
   # Bootloader.
