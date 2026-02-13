@@ -10,7 +10,7 @@
       ./hardware-configuration.nix
       ./apps.nix
       ./intelgpu.nix
-
+      ./wallpaper.nix
     ];
 
   # Bootloader.
