@@ -17,6 +17,7 @@
     github-cli
     podman
     distrobox
+    zed-editor
   ];
 
   # Poorten voor LocalSend
